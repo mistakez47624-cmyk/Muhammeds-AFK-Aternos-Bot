@@ -8,11 +8,11 @@
   "server": {
     "ip": "UltraStableSmp.aternos.me",
     "port": 14361,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
